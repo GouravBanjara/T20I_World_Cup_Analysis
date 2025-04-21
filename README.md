@@ -3,6 +3,7 @@ Feb 2024 - Feb 2024Feb 2024 - Feb 2024
 
 Description:
 Built an end-to-end data analytics project focused on the ICC T20 World Cup 2022 to derive insights from match and player performance data.
+
 🔹 Data Collection & Preparation:
 Collected match-wise and player-wise data from online sources and cricket datasets. Cleaned and structured the data using Pandas and Power Query, including converting timestamps, calculating derived metrics, and resolving inconsistencies in team/player names.
 
